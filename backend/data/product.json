@@ -1,0 +1,197 @@
+[
+	{
+		"name": "Apple iPhone 12",
+		"price": 799.99,
+		"description": "The latest iPhone with a Super Retina XDR display and A14 Bionic chip.",
+		"ratings": 4.5,
+		"images": [
+			{
+				"public_id": "1234567890",
+				"url": "https://www.example.com/iphone12.jpg"
+			},
+			{
+				"public_id": "0987654321",
+				"url": "https://www.example.com/iphone12_back.jpg"
+			}
+		],
+		"category": "Electronics",
+		"seller": "Apple Inc.",
+		"stock": 100,
+		"numOfReviews": 10,
+		"reviews": [
+			{
+				"name": "John Smith",
+				"rating": 5,
+				"comment": "I love my new iPhone! It's fast and the camera is amazing."
+			},
+			{
+				"name": "Jane Doe",
+				"rating": 4,
+				"comment": "The phone is great, but I wish the battery lasted longer."
+			}
+		],
+		"createdAt": "2022-01-01T12:00:00.000Z"
+	},
+	{
+		"name": "Samsung Galaxy S21",
+		"price": 699.99,
+		"description": "The latest Samsung smartphone with a stunning display and powerful processor.",
+		"ratings": 4.7,
+		"images": [
+			{
+				"public_id": "2345678901",
+				"url": "https://www.example.com/galaxys21.jpg"
+			},
+			{
+				"public_id": "1987654320",
+				"url": "https://www.example.com/galaxys21_back.jpg"
+			}
+		],
+		"category": "Electronics",
+		"seller": "Samsung Electronics Co., Ltd.",
+		"stock": 50,
+		"numOfReviews": 15,
+		"reviews": [
+			{
+				"name": "Robert Johnson",
+				"rating": 5,
+				"comment": "This phone is a beast! It can do everything I need and more."
+			},
+			{
+				"name": "Laura Williams",
+				"rating": 4,
+				"comment": "I'm happy with my new phone, but the fingerprint sensor is a bit slow."
+			}
+		],
+		"createdAt": "2022-02-01T12:00:00.000Z"
+	},
+	{
+		"name": "Canon EOS R6",
+		"price": 1999.99,
+		"description": "A high-performance mirrorless camera with 20 fps continuous shooting and 4K video.",
+		"ratings": 4.9,
+		"images": [
+			{
+				"public_id": "3456789012",
+				"url": "https://www.example.com/eosr6.jpg"
+			},
+			{
+				"public_id": "2987654310",
+				"url": "https://www.example.com/eosr6_back.jpg"
+			}
+		],
+		"category": "Cameras",
+		"seller": "Canon Inc.",
+		"stock": 25,
+		"numOfReviews": 12,
+		"reviews": [
+			{
+				"name": "Michael Brown",
+				"rating": 5,
+				"comment": "This camera is a game changer! The image quality is unbeatable."
+			},
+			{
+				"name": "Emily Davis",
+				"rating": 4,
+				"comment": "I'm really happy with my new camera, but the menu system is a bit confusing."
+			}
+		],
+		"createdAt": "2022-03-01T12:00:00.000Z"
+	},
+	{
+		"name": "Bose QuietComfort 35 II",
+		"price": 349.99,
+		"description": "Wireless headphones with active noise cancelling technology and Google Assistant.",
+		"ratings": 4.6,
+		"images": [
+			{
+				"public_id": "5678901234",
+				"url": "https://www.example.com/qc35ii.jpg"
+			},
+			{
+				"public_id": "4987654301",
+				"url": "https://www.example.com/qc35ii_back.jpg"
+			}
+		],
+		"category": "Headphones",
+		"seller": "Bose Corporation",
+		"stock": 75,
+		"numOfReviews": 13,
+		"reviews": [
+			{
+				"name": "David Smith",
+				"rating": 5,
+				"comment": "These headphones are amazing! The noise cancelling is top-notch and the sound quality is excellent."
+			},
+			{
+				"name": "Sara Johnson",
+				"rating": 4,
+				"comment": "I really like these headphones, but the controls are a bit hard to use."
+			}
+		],
+		"createdAt": "2022-04-01T12:00:00.000Z"
+	},
+
+	{
+		"name": "Beats Solo Pro Wireless Headphones",
+		"price": 299.99,
+		"description": "Wireless headphones with active noise cancelling and up to 22 hours of listening time.",
+		"ratings": 4.6,
+		"images": [
+			{
+				"public_id": "5678901234",
+				"url": "https://www.example.com/solopro.jpg"
+			},
+			{
+				"public_id": "4987654300",
+				"url": "https://www.example.com/solopro_back.jpg"
+			}
+		],
+		"category": "Headphones",
+		"seller": "Beats Electronics LLC",
+		"stock": 75,
+		"numOfReviews": 18,
+		"reviews": [
+			{
+				"name": "Christopher Jones",
+				"rating": 5,
+				"comment": "These headphones are amazing! The noise cancelling is top-notch."
+			},
+			{
+				"name": "Sara Smith",
+				"rating": 4,
+				"comment": "I really like these headphones, but they are a bit tight on my head."
+			}
+		],
+		"createdAt": "2022-04-01T12:00:00.000Z"
+	},
+	{
+		"name": "The Alchemist",
+		"price": 14.99,
+		"description": "A novel by Paulo Coelho about a shepherd boy's journey to fulfill his personal legend.",
+		"ratings": 4.5,
+		"images": [
+			{
+				"public_id": "6789012345",
+				"url": "https://www.example.com/alchemist.jpg"
+			}
+		],
+		"category": "Cameras",
+		"seller": "HarperCollins Publishers",
+		"stock": 100,
+		"numOfReviews": 50,
+		"reviews": [
+			{
+				"name": "James Rodriguez",
+				"rating": 5,
+				"comment": "This book is life-changing! I can't recommend it enough."
+			},
+			{
+				"name": "Ashley Johnson",
+				"rating": 4,
+				"comment": "I enjoyed the book, but I found some parts a bit slow."
+			}
+		],
+		"createdAt": "2022-05-01T12:00:00.000Z"
+	}
+]
